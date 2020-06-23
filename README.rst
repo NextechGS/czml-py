@@ -75,4 +75,4 @@ Supported CZML Components
 The components in this library are developed to follow the `CZML Content documentation`_. Supported components and subcomponents are listed in `docs/COMPONENTS.md`_.
 
 .. _CZML Content documentation: https://github.com/AnalyticalGraphicsInc/czml-writer/wiki/Packet
-.. _docs/COMPONENTS.md: https://github.com/cleder/czml/blob/master/docs/COMPONENTS.md
+.. _docs/COMPONENTS.md: https://github.com/NextechGS/czml-py/blob/master/docs/COMPONENTS.md
