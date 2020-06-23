@@ -1,10 +1,10 @@
 Introduction
 ############
 
-This is an open source python library to read and write CZML_ files for Cesium_, the WebGL Earth modeling engine.
+This is an open source python library to read and write CZML_ files for [NextechJS](https://github.com/NextechGS/NextechJS), the WebGL Earth modeling engine.
 
 .. _CZML: https://github.com/AnalyticalGraphicsInc/czml-writer/wiki/CZML-Guide
-.. _Cesium: http://cesiumjs.org/
+.. _NextechJS: https://github.com/NextechGS/NextechJS/
 
 Requirements
 ------------
