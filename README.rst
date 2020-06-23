@@ -1,7 +1,7 @@
 Introduction
 ############
 
-This is an open source python library to read and write CZML_ files for [NextechJS](https://github.com/NextechGS/NextechJS), the WebGL Earth modeling engine.
+This is an open source python library to read and write CZML_ files for NextechJS: https://github.com/NextechGS/NextechJS, the WebGL Earth modeling engine.
 
 .. _CZML: https://github.com/AnalyticalGraphicsInc/czml-writer/wiki/CZML-Guide
 .. _NextechJS: https://github.com/NextechGS/NextechJS/
@@ -9,7 +9,7 @@ This is an open source python library to read and write CZML_ files for [Nextech
 Requirements
 ------------
 
-* pygeoif: https://github.com/cleder/pygeoif
+* pygeoif: https://github.com/NextechGS/pygeoif
 * pytz: https://pypi.python.org/pypi/pytz
 
 Tests
